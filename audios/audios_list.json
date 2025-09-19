@@ -1,0 +1,21 @@
+{
+  "version": "1.0",
+  "last_update": "2025-09-19",
+  "audios": [
+    {
+      "nombre": "Ejercicio1.mp3",
+      "url": "https://raw.githubusercontent.com/dxservicesworks/server_audios_Clinic/main/audios/rojo.mp3",
+      "descripcion": "rojo"
+    },
+    {
+      "nombre": "Ejercicio2.mp3", 
+      "url": "https://raw.githubusercontent.com/dxservicesworks/server_audios_Clinic/main/audios/verde.mp3",
+      "descripcion": "verde"
+    },
+    {
+      "nombre": "Ejercicio3.mp3",
+      "url": "https://raw.githubusercontent.com/dxservicesworks/server_audios_Clinic/main/audios/azul.mp3", 
+      "descripcion": "azul"
+    }
+  ]
+}
